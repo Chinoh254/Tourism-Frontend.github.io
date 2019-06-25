@@ -1,0 +1,8 @@
+#about {
+    font-size: 1.2em;
+    font-family: sans-serif;
+}
+.carousel-inner img {
+      width: 100%;
+      height: 340px;
+  }
